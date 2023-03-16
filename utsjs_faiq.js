@@ -14,7 +14,7 @@ class Hewan {
     }
 }
 
-var Kucing = new Hewan('Kucing','itil','1 tahun','ikan');
+var Kucing = new Hewan('Kucing','Asep','1 tahun','ikan');
 console.log(Kucing.hewan);
 console.log(Kucing.nama);
 console.log(Kucing.umur);
