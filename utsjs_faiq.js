@@ -10,7 +10,7 @@ class Hewan {
         return this.nama + " sedang makan " + this.makanan + " di dapur ";
     }
     AnjingSedangMakanApa () {
-        return this.nama + " sedang makan " + this.makanan
+        return this.nama + " sedang makan " + this.makanan + " di dapur ";
     }
 }
 
